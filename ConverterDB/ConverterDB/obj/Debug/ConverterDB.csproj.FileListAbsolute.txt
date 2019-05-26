@@ -1,0 +1,7 @@
+E:\gitHUB\ConverterDB\ConverterDB\bin\Debug\ConverterDB.exe.config
+E:\gitHUB\ConverterDB\ConverterDB\bin\Debug\ConverterDB.exe
+E:\gitHUB\ConverterDB\ConverterDB\bin\Debug\ConverterDB.pdb
+E:\gitHUB\ConverterDB\ConverterDB\obj\Debug\ConverterDB.csprojAssemblyReference.cache
+E:\gitHUB\ConverterDB\ConverterDB\obj\Debug\ConverterDB.csproj.CoreCompileInputs.cache
+E:\gitHUB\ConverterDB\ConverterDB\obj\Debug\ConverterDB.exe
+E:\gitHUB\ConverterDB\ConverterDB\obj\Debug\ConverterDB.pdb
