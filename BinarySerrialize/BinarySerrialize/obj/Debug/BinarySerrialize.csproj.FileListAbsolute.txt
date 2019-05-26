@@ -1,0 +1,7 @@
+C:\Users\muhus\source\repos\BinarySerrialize\BinarySerrialize\bin\Debug\BinarySerrialize.exe.config
+C:\Users\muhus\source\repos\BinarySerrialize\BinarySerrialize\bin\Debug\BinarySerrialize.exe
+C:\Users\muhus\source\repos\BinarySerrialize\BinarySerrialize\bin\Debug\BinarySerrialize.pdb
+C:\Users\muhus\source\repos\BinarySerrialize\BinarySerrialize\obj\Debug\BinarySerrialize.csproj.CoreCompileInputs.cache
+C:\Users\muhus\source\repos\BinarySerrialize\BinarySerrialize\obj\Debug\BinarySerrialize.exe
+C:\Users\muhus\source\repos\BinarySerrialize\BinarySerrialize\obj\Debug\BinarySerrialize.pdb
+C:\Users\muhus\source\repos\BinarySerrialize\BinarySerrialize\obj\Debug\BinarySerrialize.csprojAssemblyReference.cache
